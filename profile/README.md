@@ -62,6 +62,8 @@ Our solutions are built using modern technologies, including:
 - Linux
 - Artificial Intelligence APIs
 - Cloudflare
+- TailwindCSS
+- HTML & Thymeleaf
 
 ## Connect With Us
 

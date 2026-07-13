@@ -2,7 +2,7 @@
 
 **Spark It.**
 
-Tovan Technologies is a South African technology company focused on building intelligent software systems, AI solutions, and digital platforms that solve real-world problems.
+Tovan Technologies is an IT company focused on building intelligent software systems, and digital platforms that solve real-world problems.
 We believe technology should empower people, unlock opportunities, and drive meaningful innovation.
 
 ## Our Mission

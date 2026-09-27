@@ -2,75 +2,64 @@
 
 **Spark It.**
 
-Tovan Technologies is an IT company focused on building intelligent software systems, and digital platforms that solve real-world problems.
-We believe technology should empower people, unlock opportunities, and drive meaningful innovation.
+Tovan Technologiesis a software engineering firm dedicated to architecting secure, scalable systems and digital platforms that solve real-world problems. We believe technology is a fundamental equalizer designed to empower individuals, unlock economic opportunities, and drive meaningful innovation.
 
 ## Our Mission
 
-To create impactful digital products that bridge the gap between technology, education, and opportunity.
+To engineer impactful digital products that bridge the gap between technology, education, and opportunity.
 
 ## Our Vision
 
-To improve education accessibility, opportunity creation and become a leading technology company that inspires innovation and develops solutions that improve lives across South Africa and beyond.
-
-## What We Build
-
-Our current products and initiatives focus on:
-
-- Artificial Intelligence
-- Educational Technology (EdTech)
+To democratize access to tech education and opportunity, establishing Tovan Technologies as a catalyst for innovation that improves lives across South Africa and the global digital ecosystem.
 
 ## Our Ecosystem
 
-### katcode
+Our current focus resides at the intersection of robust backend software architecture and Educational Technology (EdTech).
 
-An educational platform designed to make technology engaging and accessible.
+### KATCODE
 
-**Tagline:** *Logic precedes code.*
+*Logic precedes code.*
 
-Key areas include:
+KATCODE is our flagship educational platform, designed to make software engineering principles engaging, accessible, and deeply rooted in logical problem-solving. We move beyond syntax, teaching students how to think like engineers.
 
-- Student management
-- Interactive learning resources
-- Quizzes and assessments
-- Student engagement systems
-- Hackathons and innovation programs
+**Core Platform Capabilities:**
 
-### katnova
-
-An AI-powered assistant developed by Tovan Technologies to support learners, streamline workflows, and enhance productivity.
-
-## Our Values
-
-- Innovation
-- Excellence
-- Curiosity
-- Integrity
-- Continuous Learning
-- Impact
+* **Student & Project Management:** Automated tracking of student execution, milestone progression, and code submissions.
+* **Interactive Learning & Assessment:** Dynamic learning resources, quizzes, and real-time evaluation.
+* **Event Orchestration:** End-to-end management for student hackathons
+* **Engagement Systems:** Community-driven tools designed to keep learners motivated and progressing.
 
 ## Technology Stack
 
-Our solutions are built using modern technologies, including:
+Our solutions are built upon a modern, reliable, and scalable engineering stack:
 
-- Java
-- Spring Boot
-- MySQL and PostgredSQL
-- Railway and Vercel
-- Docker && DockerHub
-- Git & GitHub
-- Linux
-- Artificial Intelligence APIs
-- Cloudflare
-- TailwindCSS
-- HTML & Thymeleaf
+**Backend & Data Architecture**
+
+* Java & Spring Ecosystem.
+* PostgreSQL & MySQL
+
+**Frontend & User Interface**
+
+* JavaScript
+* HTML & Thymeleaf
+* Tailwind CSS
+
+**Infrastructure, DevOps & Tooling**
+
+* Linux OS Environments
+* Docker & DockerHub
+* Git & GitHub
+* Deployment & Hosting: Railway, Vercel
+* Network & Security: Cloudflare
+
+---
 
 ## Connect With Us
 
-🌐 Website: https://tovantech.co.za
-📞 Email: contact@tovantech.co.za
+**Website:** https://tovantech.co.za
 
-Stay connected as we continue building the future through technology.
+**Email:** contact@tovantech.co.za
 
+*Stay connected as we continue building the future through technology.*
 
 © 2026 Tovan Technologies Pty Ltd. All rights reserved.
